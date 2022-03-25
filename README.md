@@ -8,4 +8,4 @@ Analyze the gender distribution of children's book writers based on the use soun
 ### Naïve Bees: Image Loading and Processing
 Practice with loading, transforming, and understanding images of honey bees and bumble bees in Python.
 ### When Was the Golden Age of Video Games
-Use joins and set theory to discover the best years for video games!
+Using SQL, joins and set theory we discover the best years for video games!
